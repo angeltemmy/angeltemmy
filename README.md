@@ -1,16 +1,36 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/1c277868-2cf2-439d-aefb-06dd93f480b9)
 
-<!--
-**angeltemmy/angeltemmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hey there👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my portfolio. I'm Sarah. I'm an experienced Data Engineer , Devops Engineer and Database administrator. I collaborate with data scientists, software engineers , e.t.c to help businesses leverage the power of their data in their decision-making processes. I have experience with machine learning, exploratory data analysis, multivariate statistics, hypothesis testing, data mining, and several others.
+
+<br/>
+
+# Blog
+Check out my blog [here](https://angeltemmy.hashnode.dev/).
+
+<br/>
+
+## Ask me about 
+
+- [Data Engineering]
+- Programming with:
+	- Python
+	- SQL
+- Shell scriping with Bash
+- Database administration : SQL server, Mysql , Postgres
+- Devops
+- Data Analysis
+- Data Warehousing
+- Devsecops
+- Goals and Aspirations 
+
+
+
+<br/>
+
+## How to reach me 
+You can find me on:
+- Linkedin: www.linkedin.com/in/sarah-a-8a091689
+- Email: angeltemmy@gmail.com
